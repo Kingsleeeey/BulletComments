@@ -1,2 +1,2 @@
-# bulletComments
-弹幕
+# BulletComments
+弹幕效果实现
